@@ -2,7 +2,7 @@
     "apiGateway": "https://api.appvip.site",
     "android": {
         "version": "1.0.4",
-        "version_code": 2
+        "version_code": 1.04
     },
     "metadata": {
         "telegram_channel": "FsVPNChannel",
